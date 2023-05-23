@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm amuhleth42</h1>
-<h3 align="center">Student at 42-Lausanne</h3>
+# My Profil ⚡️
 
-- 🔭 I’m currently working on [a mini Web Server](https://github.com/passionroro/42cursus-webserv)
+<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=amuhleth42&show_icons=true&theme=transparent" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amuhleth42&layout=compact" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# Tech Stack ⚡️
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
